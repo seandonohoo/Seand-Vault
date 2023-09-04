@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Avenir",
   "monospaceFontFamily": "Avenir",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "cssTheme": "GitHub Theme"
 }
