@@ -11,10 +11,11 @@
             "id": "23cd7c0827e3546f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "2-Work-Areas/Networking NK/How Tos/Untitled.md",
-                "staged": false
+                "file": "4-Resources/_Templates/Slack Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4-Resources/_Templates/Slack Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4-Resources/_Templates/Slack Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4-Resources/_Templates/Slack Template.md"
+              }
             }
           },
           {
@@ -164,20 +169,20 @@
   "active": "23cd7c0827e3546f",
   "lastOpenFiles": [
     "4-Resources/_Templates/Network How To Template.md",
+    "4-Resources/_Templates/Meeting Template.md",
+    "4-Resources/_Templates/Jira Issue Template.md",
+    "4-Resources/_Templates/Handover Template.md",
+    "4-Resources/_Templates/Code Snip It Template.md",
+    "4-Resources/_Templates/1 to 1 Meeting Template.md",
     "2-Work Areas/Networking NK/How Tos/Cisco - Change Me.md",
     "2-Work Areas/Networking NK/How Tos/Untitled.md",
-    "4-Resources/_Templates/1 to 1 Meeting Template.md",
     "2-Work-Areas/Networking NK/How Tos/Untitled.md",
     "Arista - Simple VLAN Change.md",
     "Homepage.md",
     "2-Work-Areas/Networking NK/How Tos",
     "2-Work-Areas/Networking NK",
     "2-Work-Areas",
-    "4-Resources/_Templates/Code Snip It Template.md",
     "4-Resources/_Templates/Slack Template.md",
-    "4-Resources/_Templates/Meeting Template.md",
-    "4-Resources/_Templates/Jira Issue Template.md",
-    "4-Resources/_Templates/Handover Template.md",
     "2023-09-04 - Philip.md",
     "2-Work Areas/Networking NK/How Tos/Arista - Change Me.md",
     "3-Home Areas",
