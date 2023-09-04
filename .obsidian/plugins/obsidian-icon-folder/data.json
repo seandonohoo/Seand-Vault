@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiTodoFill",
       "TiHome",
       "TiCode",
       "FasGear",
-      "TiMan",
-      "FasSquare"
+      "TiMan"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "2-Work Areas/Networking NK/Quickies": "SiQuicklook",
   "2-Work Areas/Networking NK/How Tos": "TiHammer",
   "2-Work Areas/Slack Based Quickies": "LiSlack",
-  "2-Work Areas/Code Snip It": "TiCode"
+  "2-Work Areas/Code Snip It": "TiCode",
+  "3-Home Areas/Todos": "RiTodoFill"
 }

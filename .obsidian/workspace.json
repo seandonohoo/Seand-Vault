@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ca00ca83c48225eb",
+        "id": "a2b7a04cf5d963c4",
         "type": "tabs",
         "children": [
           {
-            "id": "23cd7c0827e3546f",
+            "id": "07b555e8a62d8a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Resources/_Templates/Slack Template.md",
+                "file": "4-Resources/_Templates/Unique Note Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Resources/_Templates/Slack Template.md",
+                "file": "4-Resources/_Templates/Unique Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-Resources/_Templates/Slack Template.md",
+                "file": "4-Resources/_Templates/Unique Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-Resources/_Templates/Slack Template.md"
+                "file": "4-Resources/_Templates/Unique Note Template.md"
               }
             }
           },
@@ -166,14 +166,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "23cd7c0827e3546f",
+  "active": "07b555e8a62d8a65",
   "lastOpenFiles": [
+    "0-Uncategorized Notes/INBOX/20230904035742.md",
+    "4-Resources/_Templates/Unique Note Template.md",
+    "4-Resources/_Templates/1 to 1 Meeting Template.md",
+    "4-Resources/_Templates/Slack Template.md",
+    "3-Home Areas/Todos",
     "4-Resources/_Templates/Network How To Template.md",
     "4-Resources/_Templates/Meeting Template.md",
     "4-Resources/_Templates/Jira Issue Template.md",
     "4-Resources/_Templates/Handover Template.md",
     "4-Resources/_Templates/Code Snip It Template.md",
-    "4-Resources/_Templates/1 to 1 Meeting Template.md",
     "2-Work Areas/Networking NK/How Tos/Cisco - Change Me.md",
     "2-Work Areas/Networking NK/How Tos/Untitled.md",
     "2-Work-Areas/Networking NK/How Tos/Untitled.md",
@@ -182,7 +186,6 @@
     "2-Work-Areas/Networking NK/How Tos",
     "2-Work-Areas/Networking NK",
     "2-Work-Areas",
-    "4-Resources/_Templates/Slack Template.md",
     "2023-09-04 - Philip.md",
     "2-Work Areas/Networking NK/How Tos/Arista - Change Me.md",
     "3-Home Areas",
@@ -196,13 +199,10 @@
     "Airsta.md",
     "2-Areas/Networking NK/How Tos/Arista - How to change a vlan.md",
     "2-Areas/Code Snip It2023-09-04 - Go.md",
-    "2-Areas/Meetings/1to1/2023-09-04 - Brad.md",
-    "2-Areas/Mettings/1to1/2023-09-04 - null.md",
     "2-Areas/Mettings/1to1",
     "2-Areas/Mettings",
     "2-Resources/Mettings/1to1",
     "2-Resources/Mettings",
-    "2-Resources",
-    "2-Work Areas/Code Snip It"
+    "2-Resources"
   ]
 }
