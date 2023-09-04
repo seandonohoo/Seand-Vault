@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "95341771a90cd84a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4de361aebb802cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c870e049cadb7066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eadb98137a25570",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c87329472a7b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2f2ec5ba7ed733",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "235284a78bba70e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74593e79b315e86a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9792bd54479687eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e01646931a8681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd28165e0e93d13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e33b5348f11fc4e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13f55e7e86487947",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1850012d5007807",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md"
+              }
+            }
+          },
+          {
+            "id": "b224bf67d8bb6e20",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0543b08bc6de64d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "c870e049cadb7066",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "2-Work-Areas/Networking NK/How Tos",
+    "2-Work-Areas/Networking NK",
+    "2-Work-Areas",
+    "2-Work-Areas/Networking NK/How Tos/Untitled.md",
+    "4-Resources/_Templates/Code Snip It Template.md",
+    "4-Resources/_Templates/1 to 1 Meeting Template.md",
+    "4-Resources/_Templates/Network How To Template.md",
+    "4-Resources/_Templates/Slack Template.md",
+    "4-Resources/_Templates/Meeting Template.md",
+    "4-Resources/_Templates/Jira Issue Template.md",
+    "4-Resources/_Templates/Handover Template.md",
+    "2023-09-04 - Philip.md",
+    "2-Work Areas/Networking NK/How Tos/Arista - Change Me.md",
+    "3-Home Areas",
+    "2-Areas/Networking NK/How Tos/Arista - Change a vlan here please.md",
+    "Arista - Testing this change.md",
+    "2-Areas/Networking NK/How Tos/Arista - Testing this change.md",
+    "2-Areas/Networking NK/How Tos/Arista - Vlan change.md",
+    "2-Areas/Code Snip It/2023-09-04 - Python.md",
+    "2-Areas/Networking NK/How Tos/Arista - How to add a vlan.md",
+    "2-Areas/Meetings/1to1/2023-09-04 - Philip.md",
+    "Airsta.md",
+    "2-Areas/Networking NK/How Tos/Arista - How to change a vlan.md",
+    "2-Areas/Code Snip It2023-09-04 - Go.md",
+    "2-Areas/Meetings/1to1/2023-09-04 - Brad.md",
+    "2-Areas/Mettings/1to1/2023-09-04 - null.md",
+    "2-Areas/Mettings/1to1",
+    "2-Areas/Mettings",
+    "2-Areas/Meetings/1to1/2023-09-04 - Brad.md",
+    "2-Areas/Mettings/1to1/Untitled.md",
+    "2-Resources/Mettings/1to1",
+    "2-Resources/Mettings",
+    "2-Resources",
+    "2-Work Areas/Code Snip It"
+  ]
+}

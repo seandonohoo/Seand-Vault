@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiHome",
+      "TiCode",
+      "FasGear",
+      "TiMan",
+      "FasSquare"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Homepage.md": "TiHome",
+  "0-Uncategorized Notes": "TiArrowsRandom",
+  "1-Projects": "FasDiagramProject",
+  "1-Projects/Personal": "TiMan",
+  "1-Projects/Work": "FasGear",
+  "4-Resources": "TiPaperclip",
+  "4-Resources/_Templates": "TiTemplate",
+  "4-Resources/Assets": "TiPaperclip",
+  "3-Home Areas": "TiHome",
+  "2-Work Areas": "FasGear",
+  "2-Work Areas/Daily Notes": "FasCalendarDay",
+  "2-Work Areas/Jira's": "SiJira",
+  "2-Work Areas/Meetings": "TiCalendar",
+  "2-Work Areas/Meetings/1to1": "🙅",
+  "2-Work Areas/Meetings/Handover": "LiHand",
+  "2-Work Areas/Networking NK": "LiNetwork",
+  "2-Work Areas/Networking NK/Quickies": "SiQuicklook",
+  "2-Work Areas/Networking NK/How Tos": "TiHammer",
+  "2-Work Areas/Slack Based Quickies": "LiSlack",
+  "2-Work Areas/Code Snip It": "TiCode"
+}

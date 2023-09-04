@@ -1,0 +1,44 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "4-Resources/_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "2-Work Areas/Code Snip It",
+      "template": "4-Resources/_Templates/Code Snip It Template.md"
+    },
+    {
+      "folder": "2-Work Areas/Meetings/1to1",
+      "template": "4-Resources/_Templates/1 to 1 Meeting Template.md"
+    },
+    {
+      "folder": "2-Work Areas/Meetings/Handover",
+      "template": "4-Resources/_Templates/Handover Template.md"
+    },
+    {
+      "folder": "2-Work Areas/Networking NK/How Tos",
+      "template": "4-Resources/_Templates/Network Howto Template.md"
+    },
+    {
+      "folder": "2-Work Areas/Meetings",
+      "template": "4-Resources/_Templates/Meeting Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
