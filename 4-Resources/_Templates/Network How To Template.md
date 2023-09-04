@@ -6,7 +6,6 @@
     title = network_device + " - " + desc
     await tp.file.rename(title);
   }
-
   
   tR += "---"
 %>
@@ -25,4 +24,4 @@ Tags: NK <% network_device %>
 ## Steps
 1. 
 
-<% tp.file.move("/2-Work-Areas/Networking NK/How Tos/" + tp.file.title) %>
+<% tp.file.move("/2-Work Areas/Networking NK/How Tos/" + title) %>

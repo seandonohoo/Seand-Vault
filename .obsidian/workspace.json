@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4de361aebb802cf7",
+        "id": "ca00ca83c48225eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c870e049cadb7066",
+            "id": "23cd7c0827e3546f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "2-Work-Areas/Networking NK/How Tos/Untitled.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Homepage.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,16 +161,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c870e049cadb7066",
+  "active": "23cd7c0827e3546f",
   "lastOpenFiles": [
+    "4-Resources/_Templates/Network How To Template.md",
+    "2-Work Areas/Networking NK/How Tos/Cisco - Change Me.md",
+    "2-Work Areas/Networking NK/How Tos/Untitled.md",
+    "4-Resources/_Templates/1 to 1 Meeting Template.md",
+    "2-Work-Areas/Networking NK/How Tos/Untitled.md",
+    "Arista - Simple VLAN Change.md",
     "Homepage.md",
     "2-Work-Areas/Networking NK/How Tos",
     "2-Work-Areas/Networking NK",
     "2-Work-Areas",
-    "2-Work-Areas/Networking NK/How Tos/Untitled.md",
     "4-Resources/_Templates/Code Snip It Template.md",
-    "4-Resources/_Templates/1 to 1 Meeting Template.md",
-    "4-Resources/_Templates/Network How To Template.md",
     "4-Resources/_Templates/Slack Template.md",
     "4-Resources/_Templates/Meeting Template.md",
     "4-Resources/_Templates/Jira Issue Template.md",
@@ -197,8 +195,6 @@
     "2-Areas/Mettings/1to1/2023-09-04 - null.md",
     "2-Areas/Mettings/1to1",
     "2-Areas/Mettings",
-    "2-Areas/Meetings/1to1/2023-09-04 - Brad.md",
-    "2-Areas/Mettings/1to1/Untitled.md",
     "2-Resources/Mettings/1to1",
     "2-Resources/Mettings",
     "2-Resources",
