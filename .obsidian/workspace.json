@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "117e937e2df14c0d",
+        "id": "cbf60d5c13a4f1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2dfad3895f96e9",
+            "id": "bbb1e0fa042ac5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,7 +166,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b2dfad3895f96e9",
+  "active": "bbb1e0fa042ac5ec",
   "lastOpenFiles": [
     "0-Uncategorized Notes/INBOX/20230904040230.md",
     "4-Resources/_Templates/Unique Note Template.md",
