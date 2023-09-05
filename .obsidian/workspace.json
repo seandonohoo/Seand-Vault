@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "2-Work Areas/Meetings/Networking.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "2-Work Areas/Meetings/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "2-Work Areas/Meetings/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "2-Work Areas/Meetings/Networking.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "0843b45459479259",
   "lastOpenFiles": [
+    "Homepage.md",
+    "2-Work Areas/Meetings/Networking.md",
     "0-Uncategorized Notes/INBOX/20230904040230.md",
     "4-Resources/_Templates/Unique Note Template.md",
     "0-Uncategorized Notes/INBOX/20230904035742.md",
@@ -183,7 +185,6 @@
     "2-Work Areas/Networking NK/How Tos/Untitled.md",
     "2-Work-Areas/Networking NK/How Tos/Untitled.md",
     "Arista - Simple VLAN Change.md",
-    "Homepage.md",
     "2-Work-Areas/Networking NK/How Tos",
     "2-Work-Areas/Networking NK",
     "2-Work-Areas",
@@ -198,7 +199,6 @@
     "2-Areas/Networking NK/How Tos/Arista - How to add a vlan.md",
     "2-Areas/Meetings/1to1/2023-09-04 - Philip.md",
     "Airsta.md",
-    "2-Areas/Networking NK/How Tos/Arista - How to change a vlan.md",
     "2-Areas/Mettings/1to1",
     "2-Areas/Mettings",
     "2-Resources/Mettings/1to1",
