@@ -32,7 +32,9 @@ Location:
 # 📅 Agenda
 	1. Tame the beast
 	2. Dallas Office
-	3. 
+	3. High trust workstations
+		1. 400 in EQLD, 200 September, 
+	4. DH5 VGIS
 
 # 🗒️ Notes
 
