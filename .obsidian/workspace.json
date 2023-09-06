@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b87dcd30d21cbb",
+        "id": "2cb8ef0c20477d96",
         "type": "tabs",
         "children": [
           {
-            "id": "aae3c7e2df295e0f",
+            "id": "3656ef2d03625f77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md"
               }
             }
           },
@@ -166,14 +166,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aae3c7e2df295e0f",
+  "active": "3656ef2d03625f77",
   "lastOpenFiles": [
+    "2-Work Areas/Meetings/1to1/2023-09-06 - Donovan.md",
+    "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
+    "0-Uncategorized Notes/INBOX/20230906053324.md",
+    "4-Resources/_Templates/1 to 1 Meeting Template.md",
     "Homepage.md",
     "2-Work Areas/Meetings/Networking.md",
     "0-Uncategorized Notes/INBOX/20230904040230.md",
     "4-Resources/_Templates/Unique Note Template.md",
     "0-Uncategorized Notes/INBOX/20230904035742.md",
-    "4-Resources/_Templates/1 to 1 Meeting Template.md",
     "4-Resources/_Templates/Slack Template.md",
     "3-Home Areas/Todos",
     "4-Resources/_Templates/Network How To Template.md",
@@ -196,9 +199,6 @@
     "2-Areas/Networking NK/How Tos/Arista - Testing this change.md",
     "2-Areas/Networking NK/How Tos/Arista - Vlan change.md",
     "2-Areas/Code Snip It/2023-09-04 - Python.md",
-    "2-Areas/Networking NK/How Tos/Arista - How to add a vlan.md",
-    "2-Areas/Meetings/1to1/2023-09-04 - Philip.md",
-    "Airsta.md",
     "2-Areas/Mettings/1to1",
     "2-Areas/Mettings",
     "2-Resources/Mettings/1to1",
