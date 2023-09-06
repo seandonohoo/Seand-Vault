@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6372517337fb59e6",
+        "id": "b1b87dcd30d21cbb",
         "type": "tabs",
         "children": [
           {
-            "id": "0843b45459479259",
+            "id": "aae3c7e2df295e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Work Areas/Meetings/Networking.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Work Areas/Meetings/Networking.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Work Areas/Meetings/Networking.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Work Areas/Meetings/Networking.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -166,7 +166,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0843b45459479259",
+  "active": "aae3c7e2df295e0f",
   "lastOpenFiles": [
     "Homepage.md",
     "2-Work Areas/Meetings/Networking.md",
