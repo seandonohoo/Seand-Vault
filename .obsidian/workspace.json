@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb8ef0c20477d96",
+        "id": "5776b98ea83cbe27",
         "type": "tabs",
         "children": [
           {
-            "id": "3656ef2d03625f77",
+            "id": "25bb3b9fcce8d27e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
+                "file": "Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
+                "file": "Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Work Areas/Code Snip It/2023-09-06 - Python.md"
+                "file": "Homepage.md"
               }
             }
           },
@@ -144,9 +145,20 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4255993483f230bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,10 +178,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3656ef2d03625f77",
+  "active": "25bb3b9fcce8d27e",
   "lastOpenFiles": [
-    "2-Work Areas/Meetings/1to1/2023-09-06 - Donovan.md",
     "2-Work Areas/Code Snip It/2023-09-06 - Python.md",
+    "2-Work Areas/Meetings/1to1/2023-09-06 - Donovan.md",
     "0-Uncategorized Notes/INBOX/20230906053324.md",
     "4-Resources/_Templates/1 to 1 Meeting Template.md",
     "Homepage.md",
